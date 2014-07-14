@@ -36,6 +36,10 @@ Provides dynamic load balancing integration with an Apache httpd server.
 
 - [Global HTTP Session Sharing](./global-http-session-sharing.html){%wbr%}
 Global HTTP Session Sharing allows transparent session replication between remote sites and session sharing between different application servers in real-time. The solution uses the Shiro Session Manager library
+
+- [Supported Jetty Versions](./supported-jetty-versions.html){%wbr%}
+What versions of jetty supported out of the box and how to configure each of them.
+
 <hr/>
 
 #### Additional Resources
